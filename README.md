@@ -1,6 +1,6 @@
 # 🤖 Hand Gesture Controlled Rover with Braccio Robotic Arm
 
-A wireless, gesture-controlled robotic system built as a team project. Tilt your hand to drive the rover in any direction — and control a mounted Braccio robotic arm remotely via an IoT dashboard, all without touching the robot.
+A wireless, gesture-controlled robotic system built as a team project. Tilt your hand to drive the rover in any direction and control a mounted Braccio robotic arm remotely via an IoT dashboard, all without touching the robot.
 
 ---
 
